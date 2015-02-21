@@ -1,7 +1,10 @@
 /vendor/*
 /config/app.php
-#/tmp/*
-#/logs/*
+/tmp/*
+/logs/*
+/webroot/coverage/*
+/node_modules/*
+/bower_components/*
 .DS_Store
 .DS_Store?
 ._*
